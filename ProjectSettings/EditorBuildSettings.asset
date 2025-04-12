@@ -8,6 +8,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Gi339/Scenes/scene1.unity
+    guid: 42498cc31b5cb9e47b66738ab684bee3
+  - enabled: 1
+    path: Assets/Gi339/Scenes/scene2.unity
+    guid: b8cba3a5f87953541ac241766b216940
+  - enabled: 1
+    path: Assets/Gi339/Scenes/scene3-1.unity
+    guid: 403ef4fd941fc0c44bdf1801b9d54c1b
+  - enabled: 1
+    path: Assets/Gi339/Scenes/scene4.unity
+    guid: 15fe9d1491f6a1e47a16a599cf7d114d
+  - enabled: 1
+    path: Assets/Gi339/Scenes/End.unity
+    guid: 883afe59a1cdb8c4ca7b1bba20795937
+  - enabled: 1
+    path: Assets/Gi339/Scenes/EndKadit.unity
+    guid: dbaa2380ff9295e43ad6b965ed10061e
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: ce68c4c37abec5347801e4204a280574,
       type: 2}

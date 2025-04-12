@@ -69,6 +69,9 @@ namespace UHFPS.Runtime
                 if (DisableCorpse) gameObject.SetActive(false);
                 OnCorpseRemove?.Invoke();
                 corpseTime = 0;
+
+                Destroy(gameObject);
+
                 corpseRemoved = true;
             }
         }

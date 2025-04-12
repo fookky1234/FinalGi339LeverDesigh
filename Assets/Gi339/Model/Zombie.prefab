@@ -3065,7 +3065,7 @@ MonoBehaviour:
   AllowHeadhsot: 0
   RemoveCorpse: 1
   DisableCorpse: 1
-  CorpseRemoveTime: 10
+  CorpseRemoveTime: 3
   DamageSounds:
   - {fileID: 8300000, guid: 395a20a5940f9074fa6ffe62af919b39, type: 3}
   - {fileID: 8300000, guid: a9ce26b5189a6a245b449f91b3ef5bd4, type: 3}
