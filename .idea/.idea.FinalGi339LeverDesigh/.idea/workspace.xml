@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="ba7124e0-870d-4dc1-a644-0bc275a2f0dc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Gi339/Scenes/scene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gi339/Scenes/scene2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gi339/Scenes/scene3-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gi339/Scenes/scene3-1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene_Demo/Playground.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene_Demo/Playground.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/Content/Shaders/Shaders HDRP/Heartbeat/Heartbeat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/Content/Shaders/Shaders HDRP/Heartbeat/Heartbeat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/AIState_Template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/AIState_Template.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/EditorScript_Template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/EditorScript_Template.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/PlayerState_Template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ThunderWire Studio/UHFPS/ScriptTemplates/PlayerState_Template.txt.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +93,7 @@
       <updated>1744733210174</updated>
       <workItem from="1744733211516" duration="8000" />
       <workItem from="1744738785272" duration="3000" />
+      <workItem from="1746370310987" duration="3000" />
     </task>
     <servers />
   </component>
